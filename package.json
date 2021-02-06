@@ -1,0 +1,24 @@
+{
+  "name": "nuxt-terminal-title-sync",
+  "version": "1.0.0",
+  "description": "Nuxt module that displays project title as terminal title instead of plain 'npm'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SugarF0x/nuxt-terminal-title-sync.git"
+  },
+  "keywords": [
+    "nuxt",
+    "module",
+    "terminal"
+  ],
+  "author": "Sugar_F0x <sugarfox.dev@gmail.com> (https://github.com/SugarF0x)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SugarF0x/nuxt-terminal-title-sync/issues"
+  },
+  "homepage": "https://github.com/SugarF0x/nuxt-terminal-title-sync#readme"
+}
